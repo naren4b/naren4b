@@ -17,6 +17,7 @@ I enjoy educating people on DevOps tech skills such as automation, cloud computi
 <a href="https://prometheus.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/prometheus/prometheus/refs/heads/main/documentation/images/prometheus-logo.svg" width="36" height="36" alt="prometheus" /></a>
 <a href="https://grafana.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/grafana/grafana/refs/heads/main/packages/grafana-icons/svg/grafana.svg" width="36" height="36" alt="grafana" /></a>
 <a href="https://victoriametrics.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/VictoriaMetrics/VictoriaMetrics/refs/heads/master/app/vlselect/vmui/favicon.svg" width="36" height="36" alt="VictoriaMetrics" /></a>
+<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/weibeld/aws-icons-svg/refs/heads/main/misc/aws/AWS_80.svg" width="36" height="36" alt="aws" /></a>  
 </p>
                     
 ### Socials
