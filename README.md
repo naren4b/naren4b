@@ -19,13 +19,15 @@ These repositories contain learning material, prototypes, and tools. Their READM
 | [GitHub Copilot metrics exporter](https://github.com/naren4b/gcp-metrics-exporter) | Exporting Copilot usage metrics to Prometheus and visualizing adoption with Grafana. |
 | [Software supply chain security](https://github.com/naren4b/sbom-gen) | SBOM generation, vulnerability analysis, and container signing examples using Syft, Grype, and Cosign. |
 
-## Engineering focus
+## Five career and portfolio areas
 
-- **Cloud & platforms:** AWS, Kubernetes, EKS, Talos, Terraform, and Helm.
-- **Delivery & automation:** GitOps, Argo CD, GitLab CI, Jenkins, Bash, and Python.
-- **Observability:** Prometheus, VictoriaMetrics, Grafana, Loki, and OpenSearch.
-- **Security:** Harbor, software supply chain security, container signing, and PKI.
-- **AI tooling:** MCP integrations and the infrastructure needed to operate AI applications.
+1. **Data-centre and Kubernetes modernization:** reliable platforms, migration, delivery automation, observability, and governance.
+2. **Multi-region data centres and edge fleets:** distributed operations, fleet lifecycle, resilience, and secure provisioning.
+3. **Production platforms for AI and agentic applications:** secure deployment, evaluation, observability, and operations; developed through prototypes and portfolio work.
+4. **Architecture leadership and delivery:** roadmaps, task planning, technical mentoring, and cross-team execution.
+5. **AWS Solutions Architecture:** hybrid-cloud design, migration choices, security, reliability, and cost trade-offs.
+
+My Nokia work provides experience in cloud and Kubernetes platforms, distributed operations, delivery automation, observability, and technical leadership. AI application platforms and secure edge provisioning are portfolio directions supported by prototypes and learning labs.
 
 ## Current exploration
 
