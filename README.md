@@ -1,31 +1,40 @@
-Hi 👋 My name is Narendranath Panda
-==================================
+# Narendranath Panda
 
-I enjoy educating people on DevOps tech skills such as automation, cloud computing, containerization, continuous integration and continuous delivery (CI/CD), infrastructure as code (IaC), design and develop microservices, monitoring and observability. I also have a passion for personal finance and nature photography.
-----------------------------------------------
+### Enterprise Cloud & Platform Architect | AWS, Kubernetes, DevOps & SRE
 
-*   🌍  I'm based in Bangalore, India 
-*   ✉️  You can contact me at [naren4biz@gmail.com](mailto:naren4biz@gmail.com)
-*   🚀  I'm currently working at [Nokia](http://Nokia.net)
-*   🤝  I'm open to collaborating on podcasts, live streams, and content consulting
+I bring 20+ years of experience across enterprise software and infrastructure. At Nokia, I work on cloud and Kubernetes platforms, delivery automation, observability, and platform modernization. I enjoy turning complex infrastructure problems into practical designs, repeatable automation, and clear learning material.
 
-### Skills 
-<p align="left">
-<a href="https://kubernetes.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/kubernetes/kubernetes/refs/heads/master/logo/logo_with_border.svg" width="36" height="36" alt="kubernetes" /></a>
-<a href="https://docs.docker.com/get-started/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/docker/docs/refs/heads/main/static/assets/images/engine.svg" width="36" height="36" alt="docker" /></a>
-<a href="https://argo-cd.readthedocs.io/en/stable/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/argoproj/argo-cd/refs/heads/master/ui/src/assets/images/argo_o.svg" width="36" height="36" alt="argo-cd" /></a>
-<a href="https://prometheus.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/prometheus/prometheus/refs/heads/main/documentation/images/prometheus-logo.svg" width="36" height="36" alt="prometheus" /></a>
-<a href="https://grafana.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/grafana/grafana/refs/heads/main/packages/grafana-icons/svg/grafana.svg" width="36" height="36" alt="grafana" /></a>
-<a href="https://victoriametrics.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/VictoriaMetrics/VictoriaMetrics/refs/heads/master/app/vlselect/vmui/favicon.svg" width="36" height="36" alt="VictoriaMetrics" /></a>
-<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/weibeld/aws-icons-svg/refs/heads/main/misc/aws/AWS_80.svg" width="36" height="36" alt="aws" /></a>  
-</p>
-                    
-### Socials
+Based in Bengaluru, India.
 
-<p align="left">          
-<a href="https://hashnode.com/@naren4biz" target="_blank" rel="noreferrer" style="padding-right: 2px;"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" alt="hashnode"  /> </a><a href="https://www.linkedin.com/in/narendranathpanda/" target="_blank" rel="noreferrer" style="padding-right: 2px;"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="linkedin" /> </a><a href="https://medium.com/@panda.narendra" target="_blank" rel="noreferrer" style="padding-right: 2px;"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" alt="medium"/> </a>
-  
-</p>
+[Architecture Blog](https://blog.npanda.online/) · [LinkedIn](https://www.linkedin.com/in/narendranathpanda/) · [Email](mailto:narendranathpanda@gmail.com) · [Hashnode](https://hashnode.com/@naren4biz) · [Medium](https://medium.com/@panda.narendra)
 
-### Badges
-[![Naren's GitHub stats](https://github-readme-stats.vercel.app/api?username=naren4b)](https://github.com/naren4b/github-readme-stats)
+## Selected public work
+
+These repositories contain learning material, prototypes, and tools. Their READMEs describe the scope and current implementation.
+
+| Project | What you can explore |
+| --- | --- |
+| [Talos & secure edge platforms](https://github.com/naren4b/learn-talos) | Talos fundamentals, secure edge provisioning, central fleet architecture, and a staged lab plan. |
+| [Harbor MCP](https://github.com/naren4b/harbor-mcp) | A Python MCP client and server for querying Harbor projects, repositories, and artifacts through an AI conversation. |
+| [GitHub Copilot metrics exporter](https://github.com/naren4b/gcp-metrics-exporter) | Exporting Copilot usage metrics to Prometheus and visualizing adoption with Grafana. |
+| [Software supply chain security](https://github.com/naren4b/sbom-gen) | SBOM generation, vulnerability analysis, and container signing examples using Syft, Grype, and Cosign. |
+
+## Engineering focus
+
+- **Cloud & platforms:** AWS, Kubernetes, EKS, Talos, Terraform, and Helm.
+- **Delivery & automation:** GitOps, Argo CD, GitLab CI, Jenkins, Bash, and Python.
+- **Observability:** Prometheus, VictoriaMetrics, Grafana, Loki, and OpenSearch.
+- **Security:** Harbor, software supply chain security, container signing, and PKI.
+- **AI tooling:** MCP integrations and the infrastructure needed to operate AI applications.
+
+## Current exploration
+
+My [Talos learning workspace](https://github.com/naren4b/learn-talos) connects platform fundamentals with secure edge fleet design. The next practical track covers a central control and factory environment, plus a Talos edge on EC2.
+
+I am also exploring how AI tools can help engineers inspect platforms and automate operational work.
+
+## Sharing & collaboration
+
+I share practical lessons on cloud architecture, Kubernetes, DevOps, and observability. I welcome technical discussions, podcasts, live streams, and opportunities to collaborate on engineering content.
+
+Outside engineering, I enjoy nature photography and personal finance.
