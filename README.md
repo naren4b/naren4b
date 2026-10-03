@@ -1,12 +1,12 @@
 # Narendranath Panda
 
-### Cloud Solutions Architect | Platform Engineering | DevOps & SRE
+### Enterprise Cloud & Platform Architect | AWS, Kubernetes, DevOps & SRE
 
-I work on cloud and Kubernetes platforms, delivery automation, observability, and platform modernization at Nokia. I enjoy turning complex infrastructure problems into practical designs, repeatable automation, and clear learning material.
+I bring 20+ years of experience across enterprise software and infrastructure. At Nokia, I work on cloud and Kubernetes platforms, delivery automation, observability, and platform modernization. I enjoy turning complex infrastructure problems into practical designs, repeatable automation, and clear learning material.
 
 Based in Bengaluru, India.
 
-[LinkedIn](https://www.linkedin.com/in/narendranathpanda/) · [Email](mailto:naren4biz@gmail.com) · [Hashnode](https://hashnode.com/@naren4biz) · [Medium](https://medium.com/@panda.narendra)
+[Architecture Blog](https://blog.npanda.online/) · [LinkedIn](https://www.linkedin.com/in/narendranathpanda/) · [Email](mailto:narendranathpanda@gmail.com) · [Hashnode](https://hashnode.com/@naren4biz) · [Medium](https://medium.com/@panda.narendra)
 
 ## Selected public work
 
