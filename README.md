@@ -1,42 +1,40 @@
 # Narendranath Panda
 
-### Enterprise Cloud & Platform Architect | AWS, Kubernetes, DevOps & SRE
+### Enterprise Cloud & Platform Architect | AWS & Amazon EKS | Enterprise Architecture | Cloud Modernization | Platform Engineering | SRE | FinOps | Generative AI
 
-I bring 20+ years of experience across enterprise software and infrastructure. At Nokia, I work on cloud and Kubernetes platforms, delivery automation, observability, and platform modernization. I enjoy turning complex infrastructure problems into practical designs, repeatable automation, and clear learning material.
+I bring 20+ years of experience across enterprise software and infrastructure. I design and modernize secure, scalable cloud and Kubernetes platforms, connecting architecture decisions to delivery, security, observability, cost and operations.
 
 Based in Bengaluru, India.
 
-[Architecture Blog](https://blog.npanda.online/) · [LinkedIn](https://www.linkedin.com/in/narendranathpanda/) · [Email](mailto:narendranathpanda@gmail.com) · [Hashnode](https://hashnode.com/@naren4biz) · [Medium](https://medium.com/@panda.narendra)
+[Architecture Blog](https://blog.npanda.online/) · [LinkedIn](https://www.linkedin.com/in/narendranathpanda/) · [Email](mailto:narendranathpanda@gmail.com)
 
-## Selected public work
+## Public portfolio
 
-These repositories contain learning material, prototypes, and tools. Their READMEs describe the scope and current implementation.
+My public engineering and architecture work is published through
+[nks](https://github.com/naren4b/nks), the public surface for architecture
+notes, technical articles and selected reproducible examples. Supporting
+projects, labs and portfolio control planes remain private.
 
-| Project | What you can explore |
-| --- | --- |
-| [Talos & secure edge platforms](https://github.com/naren4b/learn-talos) | Talos fundamentals, secure edge provisioning, central fleet architecture, and a staged lab plan. |
-| [Harbor MCP](https://github.com/naren4b/harbor-mcp) | A Python MCP client and server for querying Harbor projects, repositories, and artifacts through an AI conversation. |
-| [GitHub Copilot metrics exporter](https://github.com/naren4b/gcp-metrics-exporter) | Exporting Copilot usage metrics to Prometheus and visualizing adoption with Grafana. |
-| [Software supply chain security](https://github.com/naren4b/sbom-gen) | SBOM generation, vulnerability analysis, and container signing examples using Syft, Grype, and Cosign. |
+## Career architecture
 
-## Five career and portfolio areas
+My portfolio is organized around four connected pillars:
 
-1. **Data-centre and Kubernetes modernization:** reliable platforms, migration, delivery automation, observability, and governance.
-2. **Multi-region data centres and edge fleets:** distributed operations, fleet lifecycle, resilience, and secure provisioning.
-3. **Production platforms for AI and agentic applications:** secure deployment, evaluation, observability, and operations; developed through prototypes and portfolio work.
-4. **Architecture leadership and delivery:** roadmaps, task planning, technical mentoring, and cross-team execution.
-5. **AWS Solutions Architecture:** hybrid-cloud design, migration choices, security, reliability, and cost trade-offs.
+1. **Enterprise Platform Architecture** — Kubernetes and cloud platforms,
+   data-centre modernization, secure edge fleets, GitOps, observability and
+   platform operations.
+2. **AWS Architecture** — hybrid-cloud design, migration, security,
+   reliability, networking and cost-aware architecture.
+3. **AI Platform Engineering** — taking AI and agentic workloads toward
+   secure, scalable and observable production platforms.
+4. **Technical Leadership** — architecture decisions, engineering direction,
+   mentoring and cross-team delivery.
 
-My Nokia work provides experience in cloud and Kubernetes platforms, distributed operations, delivery automation, observability, and technical leadership. AI application platforms and secure edge provisioning are portfolio directions supported by prototypes and learning labs.
+## What I share
 
-## Current exploration
+I publish practical architecture decisions, trade-offs, implementation lessons
+and reusable patterns across AWS, Kubernetes, platform engineering,
+observability, DevSecOps and AI-enabled infrastructure.
 
-My [Talos learning workspace](https://github.com/naren4b/learn-talos) connects platform fundamentals with secure edge fleet design. The next practical track covers a central control and factory environment, plus a Talos edge on EC2.
-
-I am also exploring how AI tools can help engineers inspect platforms and automate operational work.
-
-## Sharing & collaboration
-
-I share practical lessons on cloud architecture, Kubernetes, DevOps, and observability. I welcome technical discussions, podcasts, live streams, and opportunities to collaborate on engineering content.
-
-Outside engineering, I enjoy nature photography and personal finance.
+Current portfolio work includes secure edge fleet architecture, AWS
+modernization, AI application productionization and technical leadership case
+studies.
