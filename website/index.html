@@ -55,6 +55,7 @@
     .eyebrow::before { content: ""; width: 25px; height: 1px; background: currentColor; }
     h1 { max-width: 700px; margin: 23px 0 22px; font-size: clamp(44px, 6.6vw, 78px); line-height: .99; letter-spacing: -.067em; font-weight: 650; }
     h1 span { color: var(--lime); }
+    .hero-portrait { display: block; width: 154px; height: 154px; border: 2px solid var(--mint); border-radius: 22px; object-fit: cover; object-position: center; margin-bottom: 30px; background: var(--panel); }
     .hero-copy { max-width: 620px; margin: 0; color: var(--muted); font-size: 18px; line-height: 1.75; }
     .actions { display: flex; flex-wrap: wrap; gap: 13px; margin-top: 33px; }
     .button { display: inline-flex; align-items: center; justify-content: center; gap: 9px; min-height: 48px; padding: 0 19px; border: 1px solid var(--line); border-radius: 9px; font-size: 14px; font-weight: 700; transition: transform .2s, background .2s, border-color .2s; }
@@ -229,6 +230,7 @@
   <main id="top">
     <div class="shell hero">
       <div class="hero-text">
+        <img class="hero-portrait" src="https://avatars.githubusercontent.com/u/3488520?v=4" alt="Portrait of Narendranath Panda" width="154" height="154" fetchpriority="high">
         <div class="eyebrow">Cloud architecture · Platform reliability</div>
         <h1>Building platforms<br>people can <span>depend on.</span></h1>
         <p class="hero-copy">I’m Narendranath, a cloud architect and SRE leader with 20+ years in technology. I design and evolve cloud-native platforms that stay reliable as teams, services, and fleets grow.</p>
